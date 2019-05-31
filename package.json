@@ -21,7 +21,7 @@
     "bluebird": "^3.5.0",
     "buffer": "^5.0.5",
     "decompress": "^4.0.0",
-    "eth-lib": "^0.1.26",
+    "eth-lib": "git+https://github.com/lemengbin/eth-lib#0.1.27",
     "fs-extra": "^2.1.2",
     "fs-promise": "^2.0.0",
     "got": "^7.1.0",
